@@ -1,1 +1,2 @@
 Task 2: practicing branches.
+Next: practicing merge conflicts.
